@@ -2,7 +2,7 @@
 
 REST API server with bearer token auth.
 
-###[Postman documentation link](https://documenter.getpostman.com/view/19569831/2s8YmNPND5)
+### [Postman documentation link](https://documenter.getpostman.com/view/19569831/2s8YmNPND5)
 
 ### Commands:
 
